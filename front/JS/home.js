@@ -15,5 +15,7 @@ fetch("http://localhost:3000/api/products")
                                             <p class="productDescription">${product.description}</p>
                                           </article>
                                         </a>`;
-                  }
+    }
   });
+
+
